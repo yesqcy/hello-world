@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="WNDJLHvQdimEq3WHdfie">
-    <mxGraphModel dx="1418" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="MSSOvg05ZAS48mNT7Zfc-23" edge="1" parent="1" source="MSSOvg05ZAS48mNT7Zfc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" target="MSSOvg05ZAS48mNT7Zfc-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MSSOvg05ZAS48mNT7Zfc-44" connectable="0" parent="MSSOvg05ZAS48mNT7Zfc-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="主主同步" vertex="1">
+        <mxCell id="MSSOvg05ZAS48mNT7Zfc-44" connectable="0" parent="MSSOvg05ZAS48mNT7Zfc-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="双主库，主主同步" vertex="1">
           <mxGeometry relative="1" x="-0.225" y="3" as="geometry">
             <mxPoint x="22" as="offset" />
           </mxGeometry>
